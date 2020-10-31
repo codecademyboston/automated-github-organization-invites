@@ -6,11 +6,11 @@
   "keywords": ["github", "automation", "github organization", "team", "invite"],
   "env": {
     "GITHUB_TOKEN": {
-      "description": "A Github access token to activate the Octokit Github Client",
+      "description": "8271d271e4ca7416a2e0ad9a0abedb355d640daf",
       "value": null
     },
     "ORGANIZATION_NAME": {
-      "description": "You can confirm it by going to your org's dashboard. The URL will be: \"https://github.com/orgs/{ORGANIZATION_NAME}/dashboard\"",
+      "description": "Codecademy Bosston Invite Page",
       "value": null
     },
     "TEAM_NAME": {
